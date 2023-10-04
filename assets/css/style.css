@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+#timer {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#question-text {
+    font-size: 24px;
+}
+
+#answers {
+    margin-top: 20px;
+}
+
+#answers button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#score {
+    font-size: 24px;
+    font-weight: bold;
+}
